@@ -1,7 +1,5 @@
 # Hi, I'm Yonatan 👋
 
-# Hi, I'm Yonatan 👋
-
 ### CS Student @ Bar-Ilan University | Disciplined Developer | End-to-End Solutions
 
 I am a software engineer focused on delivering **tight, tailored products** designed specifically for the task at hand. I believe that modern development requires a balance: leveraging new technologies for efficiency while maintaining the rigorous discipline needed for technical precision.
