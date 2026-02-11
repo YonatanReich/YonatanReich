@@ -1,12 +1,22 @@
 # Hi, I'm Yonatan 👋
 
-### CS Student @ Bar-Ilan University | Systems-Focused Developer | Low-Level Optimizer
+# Hi, I'm Yonatan 👋
 
-I am a software engineer focused on building high-performance systems where **technical discipline** meets **modern efficiency**. I believe in leveraging new technologies to accelerate development while remaining vigilant about low-level architectural precision.
+### CS Student @ Bar-Ilan University | Disciplined Developer | End-to-End Solutions
 
-- 🔍 Understanding the "why" behind the code through **Systems Programming** & **C++**.
-- 🚀 Building scalable, end-to-end solutions from the ground up.
-- 🛠️ Maintaining a keen eye for detail in a rapidly evolving tech landscape.
+I am a software engineer focused on delivering **tight, tailored products** designed specifically for the task at hand. I believe that modern development requires a balance: leveraging new technologies for efficiency while maintaining the rigorous discipline needed for technical precision.
+
+- 🏗️ Building **scalable, end-to-end solutions** from the ground up.
+- 🎯 Delivering **tightly tailored software** focused on specific user needs and efficiency.
+- 🛠️ Maintaining a **keen eye for detail** in a rapidly evolving technological landscape.
+
+---
+
+## 💻 Technical Approach
+
+- **Disciplined Development:** Prioritizing clean architecture and reliable execution over buzzwords.
+- **Task-Tailored Solutions:** Analyzing the specific problem to select the most efficient tools for the job.
+- **System-Level Awareness:** Leveraging modern tools to work faster without losing sight of architectural integrity.
 
 ---
 
@@ -17,7 +27,9 @@ I am a software engineer focused on building high-performance systems where **te
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-672111?style=for-the-badge&logo=riscv&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 ### Frameworks & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
