@@ -2,7 +2,7 @@
 
 ### CS Student @ Bar-Ilan University | Disciplined Development | End-to-End Solutions
 
-I am an aspiring software engineer focused on delivering **tight, tailored products** designed specifically for the task at hand. I believe that modern development requires a balance: leveraging new technologies for efficiency while maintaining the rigorous discipline needed for technical precision.
+I am a Juniot software engineer focused on delivering **tight, tailored products** designed specifically for the task at hand. I believe that modern development requires a balance: leveraging new technologies for efficiency while maintaining the rigorous discipline needed for technical precision.
 
 - 🏗️ Building **scalable, end-to-end solutions** from the ground up.
 - 🎯 Delivering **tightly tailored software** focused on specific user needs and efficiency.
@@ -12,8 +12,8 @@ I am an aspiring software engineer focused on delivering **tight, tailored produ
 
 ## 💻 Technical Approach
 
-- **Disciplined Development:** Prioritizing clean architecture and reliable execution over buzzwords.
-- **Task-Tailored Solutions:** Analyzing the specific problem to select the most efficient tools for the job.
+- **Disciplined Development:** Prioritizing clean, safe and scalable architecture.
+- **Task-Tailored Solutions:** Rigorously Debugging and choosing the best tools for each task.
 - **System-Level Awareness:** Leveraging modern tools to work faster without losing sight of architectural integrity.
 
 ---
@@ -30,8 +30,8 @@ I am an aspiring software engineer focused on delivering **tight, tailored produ
 
 ### Frameworks & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
@@ -43,19 +43,19 @@ I am an aspiring software engineer focused on delivering **tight, tailored produ
 
 ## 🚀 Featured Projects
 
-### 📂 [High-Performance Cloud Storage](https://github.com/YonatanReich/Google-drive-mock)
+### 📂 [Containerized Google Drive Mock](https://github.com/YonatanReich/Google-drive-mock)
 **Problem:** Bridging academic theory and industry-grade full-stack architecture.
 - Engineered a thread-safe **C++ core server** for high-concurrency file handling.
-- Integrated a custom **N-API native addon** to bridge low-level OS calls with Node.js.
+- Custom MVC Wwb server with Node.js.
 - Developed a containerized deployment workflow using **Docker**.
+- Frontend work done with React and React Native
 
 
 ### 🎮 [3D Dev portfolio](https://yonatanreich.dev)
 **Problem:** Standing out in a competitive market with hardware-accelerated graphics.
 - Developed a 3D simulation engine using **Three.js** and **React Three Fiber**.
 - Optimized the GPU rendering loop and centralized state management with **Zustand**.
-- Applied strict **OOP principles** to manage complex 3D object lifecycles.## Hi there 👋
-
+- Applied strict **OOP principles** to manage complex 3D object lifecycles and interactions between them.
 <!--
 **YonatanReich/YonatanReich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
