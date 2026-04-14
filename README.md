@@ -4,7 +4,7 @@
 
 I am a Juniot software engineer focused on delivering **tight, tailored products** designed specifically for the task at hand. I believe that modern development requires a balance: leveraging new technologies for efficiency while maintaining the rigorous discipline needed for technical precision.
 
-- 🏗️ Building **scalable, end-to-end solutions** from the ground up.
+- 🏗️ Building **scalable, end-to-end solutions** From Idea to a deliverable product.
 - 🎯 Delivering **tightly tailored software** focused on specific user needs and efficiency.
 - 🛠️ Maintaining a **keen eye for detail** in a rapidly evolving technological landscape.
 
@@ -30,8 +30,8 @@ I am a Juniot software engineer focused on delivering **tight, tailored products
 
 ### Frameworks & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
