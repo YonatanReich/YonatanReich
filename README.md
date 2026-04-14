@@ -30,6 +30,8 @@ I am an aspiring software engineer focused on delivering **tight, tailored produ
 
 ### Frameworks & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
@@ -47,13 +49,8 @@ I am an aspiring software engineer focused on delivering **tight, tailored produ
 - Integrated a custom **N-API native addon** to bridge low-level OS calls with Node.js.
 - Developed a containerized deployment workflow using **Docker**.
 
-### 📊 [Sankey Job Hunt Dashboard](https://github.com/YonatanReich/Sankey-job-hunt-web-app)
-**Problem:** Managing complex recruitment cycles through data visualization.
-- Built a dynamic **React/TypeScript** interface for recursive data transformation.
-- Implemented a flexible system allowing users to define custom recruitment flows.
-- Focused on type-safe state management for a production-ready experience.
 
-### 🎮 [Interactive 3D Engine](https://yonatanreich.dev)
+### 🎮 [3D Dev portfolio](https://yonatanreich.dev)
 **Problem:** Standing out in a competitive market with hardware-accelerated graphics.
 - Developed a 3D simulation engine using **Three.js** and **React Three Fiber**.
 - Optimized the GPU rendering loop and centralized state management with **Zustand**.
