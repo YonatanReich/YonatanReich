@@ -1,8 +1,8 @@
 # Hi, I'm Yonatan Reich
 
-### Full-Stack Software Engineer | Problem solver
+### Software Engineer | C++ | Graphics programming and Game dev
 
-I am a software engineer, and I beleive in using it as a tool to solve actual problems.
+I am a software engineer speciating in C++, and I believe in using it as a tool to solve actual problems.
  
 -  Building **scalable, end-to-end solutions** From Idea to a deliverable product.
 -  Delivering **tightly tailored software** focused on specific user needs and efficiency.
