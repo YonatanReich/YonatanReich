@@ -38,6 +38,10 @@ Designed and implemented a cross-platform Frontend using React on the web and Re
 
 ##  Tech Stack
 
+### Graphics APIs
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
+
 ### Languages & Systems
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
